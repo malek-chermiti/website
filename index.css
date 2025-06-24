@@ -1,0 +1,58 @@
+#entete{
+    display: flex;
+    justify-content: space-between;
+     padding-top: 20px;
+     padding-left: 40px;
+     padding-right: 10px;
+}
+#liens{
+    display: flex;
+    gap:20px;
+}
+#info{
+    display: flex;
+     padding-top: 20px;
+     padding-left: 40px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding-right: 10px;
+}
+#heromain{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+   
+}
+#logo{
+    font-size: 24px;
+    color: #f9faf9;
+   
+}
+#div1{background-color: #1f2937;}
+
+#sec,#liens{font-size: 18px;color: #e5e7eb;}
+#pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button1{
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: hotpink;
+    font-size: 18px;
+
+    margin-bottom: 10px;
+    
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#liens a:hover {
+    text-decoration: underline;
+}
