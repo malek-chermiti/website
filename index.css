@@ -33,10 +33,12 @@ img{
 #div1{background-color: #1f2937;}
 
 #sec,#liens{font-size: 18px;color: #e5e7eb;}
-#pic{
-    display: flex;
-    justify-content: center;
+#pic{display: flex;
+    justify-content:center;
     align-items: center;
+    border: solid;
+    width: 500px;
+    margin-left: 250px;
 }
 #button1{
     border-radius: 20px;
